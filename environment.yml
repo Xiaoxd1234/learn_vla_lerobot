@@ -1,0 +1,9 @@
+name: so101-lerobot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  # The working environment was created by cloning the local compatible
+  # tzy_lerobot environment because the configured Conda mirror was offline.
+  # LeRobot and Python dependencies are installed with pip from ../so101-learning/lerobot.
+  - pip

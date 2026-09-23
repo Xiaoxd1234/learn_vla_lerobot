@@ -1,0 +1,28 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Runtime data and experiment outputs
+data/
+outputs/
+wandb/
+*.log
+
+# Datasets, recordings, and model artifacts
+*.bag
+*.bin
+*.mp4
+*.onnx
+*.parquet
+*.pt
+*.pth
+*.safetensors

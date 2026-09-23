@@ -1,0 +1,6 @@
+[submodule "lerobot"]
+	path = lerobot
+	url = https://github.com/huggingface/lerobot.git
+[submodule "references/so101-real"]
+	path = references/so101-real
+	url = https://github.com/JereoZero/so101-real.git
